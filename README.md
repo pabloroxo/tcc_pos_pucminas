@@ -12,4 +12,4 @@ Aluno: Pablo Ricardo Roxo Silva
 
 Abril/2021
 
-### * O relatório e o slide da apresentação estará disponível após a defesa.
+### * O relatório e o slide da apresentação estarão disponíveis após a defesa.
