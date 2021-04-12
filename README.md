@@ -11,3 +11,5 @@ Título: CLASSIFICAÇÃO DO RISCO DE CRÉDITO DE CLIENTES A PARTIR DO HISTÓRICO
 Aluno: Pablo Ricardo Roxo Silva
 
 Abril/2021
+
+### * O relatório e o slide da apresentação estará disponível após a defesa.
